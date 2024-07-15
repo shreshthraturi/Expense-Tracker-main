@@ -6,4 +6,4 @@
 
 Link : (https://costtracker.netlify.app/)
 
-![port](https://github.com/pushpendrakukreti/Expense-Tracker/blob/main/public/read-me.png)
+![port](https://github.com/shreshthraturi/Expense-Tracker/blob/main/public/read-me.png)
